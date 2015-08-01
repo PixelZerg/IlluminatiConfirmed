@@ -1,0 +1,8 @@
+c:\users\rut\documents\visual studio 2013\Projects\IlluminatiConfirmed\IlluminatiConfirmed\bin\Debug\IlluminatiConfirmed.exe.config
+c:\users\rut\documents\visual studio 2013\Projects\IlluminatiConfirmed\IlluminatiConfirmed\bin\Debug\IlluminatiConfirmed.exe
+c:\users\rut\documents\visual studio 2013\Projects\IlluminatiConfirmed\IlluminatiConfirmed\bin\Debug\IlluminatiConfirmed.pdb
+c:\users\rut\documents\visual studio 2013\Projects\IlluminatiConfirmed\IlluminatiConfirmed\obj\Debug\IlluminatiConfirmed.csprojResolveAssemblyReference.cache
+c:\users\rut\documents\visual studio 2013\Projects\IlluminatiConfirmed\IlluminatiConfirmed\obj\Debug\IlluminatiConfirmed.exe
+c:\users\rut\documents\visual studio 2013\Projects\IlluminatiConfirmed\IlluminatiConfirmed\obj\Debug\IlluminatiConfirmed.pdb
+c:\users\rut\documents\visual studio 2013\Projects\IlluminatiConfirmed\IlluminatiConfirmed\obj\Debug\IlluminatiConfirmed.Picture.resources
+c:\users\rut\documents\visual studio 2013\Projects\IlluminatiConfirmed\IlluminatiConfirmed\obj\Debug\IlluminatiConfirmed.csproj.GenerateResource.Cache
